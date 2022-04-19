@@ -1,5 +1,3 @@
-This repository will serve as my portfolio to showcase my projects and other work.
-
 ### Google Data Analytics Certificate Capstone Project
 [Cyclistic Case Study](https://alexb131.github.io/capstone_project/Cyclistic_Case_Study.html)\
 **.Rmd file:** [`Cyclistic_Case_Study.Rmd`](https://github.com/alexb131/capstone_project/blob/main/Cyclistic_Case_Study.Rmd)\
