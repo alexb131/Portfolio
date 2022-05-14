@@ -17,6 +17,9 @@
 **Raw data:** [`bike_sales_raw.xlsx`](https://github.com/alexb131/Excel/blob/main/bike_sales_raw.xlsx)\
 **Description:** I used a larger sample dataset to practice skills such as data cleaning, formatting, find & replace, nested IF functions, Pivot Tables, charts, slicers, and creating a dashboard.
 
+## Python
+#### [My projects from the *100 Days of Code: The Complete Python Pro Bootcamp for 2022* Udemy course](https://github.com/alexb131/Python#from-the-100-days-of-code-the-complete-python-pro-bootcamp-for-2022-udemy-course)
+
 ## SQL
 #### NCAA Men's Basketball
 **SQL script:** [`ncaa_mbb_teams.sql`](https://github.com/alexb131/SQL/blob/main/ncaa_mbb_teams.sql)\
